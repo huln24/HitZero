@@ -79,7 +79,7 @@ public class RecursiveHitZero {
         // Starting positions 123
         int[] positions = {0,5,3,2,0,0,24,2,4,5,0,0,1,8,1,3,4,3,1,8};
 
-        // Expected results
+        // Expected results, good thing
         boolean[] expected = {true, false, true, false, true, false, false, true, false, false, true, true,
                 false, false, false, true, false, false, true, false};
 
