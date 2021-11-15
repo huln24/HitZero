@@ -76,7 +76,7 @@ public class RecursiveHitZero {
                 {1, 4, 3, 3, 3, 6, 2, 7, 5, 0}
         };
 
-        // Starting positions
+        // Starting positions 123
         int[] positions = {0,5,3,2,0,0,24,2,4,5,0,0,1,8,1,3,4,3,1,8};
 
         // Expected results
